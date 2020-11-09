@@ -1,3 +1,7 @@
+# Om prosjektet
+Ideen var å lage en lånedagbok. Lånedagboken vil gi en bruker tilgang til å se alle låne oversikt som en selv skylder. Det kan være alt fra billån, bolig eller lån som man skylder venner,familie etc. Meningen var at man skal kunne selv legge inn en nedbetalingsplan med ønsket innput slik at man kan holde oversikt over resterende gjeld, terminbeløp og andre ting. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
